@@ -328,6 +328,28 @@ nav {
   margin-bottom: 15px;
 }
 
+/** Hackclub Section **/
+.hackclub {
+  padding: 100px 0;
+  background-color: var(--nhs-gray);
+  text-align: center;
+}
+.hackclub h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+.hackclub p {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  opacity: 0.9;
+}
+
+.hackclub img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
 /** Join Section **/
 .join {
   padding: 100px 0;
