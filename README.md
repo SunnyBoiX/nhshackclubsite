@@ -1,1 +1,1 @@
-# [NHSHACKCLUB.github.io](https://sunnyboix.github.io/nhshackclubsite/)
+# [Northville High School Hack Club Site](https://sunnyboix.github.io/nhshackclubsite/)
